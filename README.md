@@ -66,3 +66,8 @@ Jurnal Penutup
 Design Database di PhpMyAdmin
 
 ![Screenshot (26)](https://github.com/HanifMuzzaki/sisteminformasiakuntansi/assets/152130412/a3161c2a-7f55-41dd-8925-37a36106a302)
+
+Flowchart Aplikasi Sistem Informasi Akuntansi
+
+<img width="992" alt="Screenshot 2023-12-04 at 08 48 22" src="https://github.com/HanifMuzzaki/sisteminformasiakuntansi/assets/152130412/65dec40f-b949-4b22-8008-94f8ef5b4e71">
+
